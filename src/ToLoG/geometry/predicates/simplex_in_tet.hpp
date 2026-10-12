@@ -5,6 +5,7 @@
 #include <iostream>
 #include <ToLoG/mesh/tet_topology.hpp>
 #include <ToLoG/geometry/predicates/intersects.hpp>
+#include <vector>
 
 namespace ToLoG
 {

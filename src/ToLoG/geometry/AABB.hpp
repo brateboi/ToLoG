@@ -3,6 +3,7 @@
 #include <ToLoG/vector_concepts.hpp>
 #include <span>
 #include <ostream>
+#include <cmath>
 
 namespace ToLoG
 {

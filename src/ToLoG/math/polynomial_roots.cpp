@@ -1,4 +1,6 @@
 #include <ToLoG/math/polynomial_roots.hpp>
+#include <cmath>
+#include <array>
 
 namespace ToLoG
 {

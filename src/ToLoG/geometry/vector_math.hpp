@@ -1,4 +1,5 @@
 #pragma once
+#include <cmath>
 #include <ToLoG/geometry/Vector.hpp>
 
 namespace ToLoG

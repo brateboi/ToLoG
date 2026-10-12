@@ -1,6 +1,7 @@
 #pragma once
 #include <ToLoG/geometry/Shapes.hpp>
 #include <ToLoG/geometry/vector_math.hpp>
+#include <cmath>
 
 namespace ToLoG
 {

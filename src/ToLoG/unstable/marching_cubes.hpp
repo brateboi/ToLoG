@@ -1,6 +1,9 @@
 #pragma once
 #include <ToLoG/Core.hpp>
 #include <functional>
+#include <algorithm>
+#include <vector>
+#include <array>
 
 namespace ToLoG
 {

@@ -2,6 +2,7 @@
 
 #include <iterator>
 #include <ToLoG/mesh/cell_complex_handles.hpp>
+#include <vector>
 
 namespace ToLoG::Mesh
 {
